@@ -47,7 +47,7 @@ Instructions to Run Code
 -
   1. Clone the repository:
   ```bash
-  https://github.com/CameronNicholas-Foley/digital-connectivity-contribution-y-h-employment-growth.git
+https://github.com/CameronNicholas-Foley/digital-connectivity-contribution-y-h-employment-growth.git
 ```
   2. Open RStudio, set the cloned repository as the repository URL **(File -> New Project -> Version Control -> Git)**.
   3. Run `1_libraries.R` and install the packages if required.
