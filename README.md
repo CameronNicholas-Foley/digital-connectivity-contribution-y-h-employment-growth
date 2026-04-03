@@ -28,7 +28,7 @@ Machine Learning Pipeline
 Findings
 -
 - **The COVID-19 Shock:** Exploratory data analysis revealed local authorities have experienced temporal change across  structural characteristics, particularly after the COVID-19 outbreak.
-- **Model Complexity vs Sample Size:** The small sample size (train N = 72, test N = 40) led to the Random Forests heavily overfitting to localised noise.
+- **Model Complexity vs Sample Size:** The small sample size (train N = 72, test N = 40) led to the Random Forest models heavily overfitting to localised noise.
 -   **The Digital Hypothesis on Parametric and Non-Parametric Testing:** Both Random Forest feature importance and linear OLS p-values confirmed the selected digital connectivity variables (% SFBB Availability; % of Premises Unable to Receive 10Mbit/s) were not significant predictors of employment growth % change.
 -   **The Actual Structural Drivers:** Both models did however successfully identify Level 3 Educational Attainment (%) and PC3 (a specific local industry composition) as significant driver of employment growth % change. These two variables achieved >98% positive importance across 500 bootstraps and were the only variables to achieve $p < 0.05$ significance in the linear model.
 
