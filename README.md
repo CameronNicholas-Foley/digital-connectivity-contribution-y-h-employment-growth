@@ -1,5 +1,5 @@
 # Contribution of Digital Connectivity Data in Local Authority Employment Growth Modelling.
-Assessing the Predictive Contribution of Yorkshire and The Humber's Digital Connectivity Data (% SFBB Availability; % of Premises Unable to Receive 10Mbit/s) in Employment Growth Modelling Using Among Broader Structural Indicators.
+Assessing the Predictive Contribution of Yorkshire and The Humber's Digital Connectivity Data (% SFBB Availability; % of Premises Unable to Receive 10Mbit/s) in Employment Growth Modelling.
 
 Overview
 -
